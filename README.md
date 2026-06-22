@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-## 🌟 About Me
+
 
 - 👩‍💻 **Name:** Aarthi
 - 🎓 **Education:** Computer Science Student
@@ -33,11 +33,6 @@
 - 🌍 **Goal:** Build AI that makes real-world impact
 <div align="center">
 
-![AI](https://img.shields.io/badge/🤖%20AI-FF6EC7?style=for-the-badge)
-![ML](https://img.shields.io/badge/📊%20ML-A855F7?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/📈%20Data%20Science-6366F1?style=for-the-badge)
-![Automation](https://img.shields.io/badge/🔄%20Automation-06B6D4?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/🌐%20Full%20Stack-10B981?style=for-the-badge)
 
 </div>
 ```
