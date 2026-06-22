@@ -22,23 +22,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
 ## 🌟 About Me
 
-<div align="center">
-
-| | |
-|---|---|
-| 👩‍💻 **Name** | Aarthi |
-| 🎓 **Role** | Aspiring Data Scientist & Full Stack Developer |
-| 🏫 **Education** | Computer Science Student |
-| 🔥 **Passion** | AI • ML • Data Science • Automation |
-| 🚀 **Currently** | Learning Agentic AI & Advanced ML |
-| ☕ **Fun Fact** | I turn coffee into intelligent solutions! |
-| 🌍 **Goal** | Build AI that makes real-world impact |
-
-</div>
-
+- 👩‍💻 **Name:** Aarthi
+- 🎓 **Education:** Computer Science Student
+- 💼 **Role:** Aspiring Data Scientist & Full Stack Developer
+- 🔥 **Passion:** AI • ML • Data Science • Automation
+- 🚀 **Currently Learning:** Agentic AI & Advanced ML
+- ☕ **Fun Fact:** I turn coffee into intelligent solutions!
+- 🌍 **Goal:** Build AI that makes real-world impact
 <div align="center">
 
 ![AI](https://img.shields.io/badge/🤖%20AI-FF6EC7?style=for-the-badge)
