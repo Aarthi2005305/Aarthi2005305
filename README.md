@@ -23,25 +23,31 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```python
-```python
-class Aarthi:
-    def __init__(self):
-        self.name        = "Aarthi 🌟"
-        self.role        = "Aspiring Data Scientist & Full Stack Developer"
-        self.college     = "Computer Science Student 🎓"
-        self.passion     = ["🤖 AI", "📊 ML", "📈 Data Science", "🔄 Automation"]
-        self.languages   = ["🐍 Python", "🗄️ SQL", "🌐 HTML", "🎨 CSS"]
-        self.tools       = ["⚡ FastAPI", "🎈 Streamlit", "🔗 n8n", "🐬 MySQL"]
-        self.currently   = "🚀 Learning Agentic AI & Advanced ML"
-        self.fun_fact    = "I turn ☕ coffee into intelligent solutions!"
-        self.goal        = "Build AI that makes real-world impact 🌍"
+## 🌟 About Me
 
-    def say_hi(self):
-        print("✨ Thanks for visiting! Let's build something amazing together! 🚀")
+<div align="center">
 
-me = Aarthi()
-me.say_hi()
+| | |
+|---|---|
+| 👩‍💻 **Name** | Aarthi |
+| 🎓 **Role** | Aspiring Data Scientist & Full Stack Developer |
+| 🏫 **Education** | Computer Science Student |
+| 🔥 **Passion** | AI • ML • Data Science • Automation |
+| 🚀 **Currently** | Learning Agentic AI & Advanced ML |
+| ☕ **Fun Fact** | I turn coffee into intelligent solutions! |
+| 🌍 **Goal** | Build AI that makes real-world impact |
+
+</div>
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/🤖%20AI-FF6EC7?style=for-the-badge)
+![ML](https://img.shields.io/badge/📊%20ML-A855F7?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/📈%20Data%20Science-6366F1?style=for-the-badge)
+![Automation](https://img.shields.io/badge/🔄%20Automation-06B6D4?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/🌐%20Full%20Stack-10B981?style=for-the-badge)
+
+</div>
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
